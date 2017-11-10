@@ -20,7 +20,7 @@ The goals / steps of this project are the following:
 [image3]: ./writeup_images/centre_image.png
 [image4]: ./writeup_images/left_image.png
 [image5]: ./writeup_images/right_image.png
-[image6]: ./writeup_images/centre_flipped_image.png
+[image6]: ./writeup_images/center_flipped.png
 
 
 ---
@@ -89,10 +89,10 @@ To capture good driving behavior, I first recorded two laps on track one using c
 
 ![alt text][image3]
 
-During this lap, I also recordered images from left and right camera. I used this images wuth ajusted steering to augment data. Here is an example of left and right camera images
-![alt text][image4] ![alt text][image5]
+During this lap, I also recordered images from left and right camera. I used this images with ajdusted steering to augment data. Here is an example of left and right camera images
+![alt text][image4]  ![alt text][image5]
 
-To augment the data set, I also flipped images and angles thinking that this wouldhelp with left turn bais For example, here is a centre image that has then been flipped:
+To augment the data set, I also flipped images and angles thinking that this would help with left turn bais. For example, here is a centre image that has then been flipped:
 
 ![alt text][image6]
 
