@@ -1,0 +1,6 @@
+*.zip
+data
+__pycache__
+_MACOSX
+linux_sim
+model.h5
